@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Maze Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #3A92BC;
+            border-bottom: 3px solid #3A92BC;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #3A92BC;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #555;
+            margin-top: 20px;
+        }
+        a {
+            color: #3A92BC;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .last-updated {
+            font-style: italic;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 30px;
+        }
+        .important-notice {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="last-updated">Last Updated: October 27, 2025</p>
+
+    <div class="important-notice">
+        <strong>Important:</strong> Please read these Terms of Service carefully before using our Game. By downloading, installing, or using the Maze game, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Game.
+    </div>
+
+    <h2>1. ABOUT THESE TERMS</h2>
+    
+    <h3>1.1 Developer Information</h3>
+    <p>These Terms of Service ("Terms") govern your use of the Maze game ("Game" or "App") developed and published by Pluq Arc, an independent developer based in Tunisia.</p>
+    <p>The Game is available for download through the Google Play Store and is subject to these Terms of Service and our Privacy Policy.</p>
+
+    <h3>1.2 Agreement to Terms</h3>
+    <p>By downloading, installing, accessing, or using the Game, you agree to be bound by these Terms of Service and our Privacy Policy. Each time you use the Game, the current version of these Terms applies to your use.</p>
+    <p>If you do not agree to these Terms or our Privacy Policy, you must not download, install, or use the Game.</p>
+
+    <h3>1.3 Age Requirements</h3>
+    <p>The Game is suitable for users of all ages. If you are under 18 years of age, you must have permission from your parent or legal guardian to download and use the Game. By using the Game, you represent that you have obtained such permission if required.</p>
+
+    <h3>1.4 Changes to Terms</h3>
+    <p>We reserve the right to modify, update, or change these Terms of Service at any time without prior notice. When we make changes, we will update the "Last Updated" date at the top of this document. Your continued use of the Game after any changes indicates your acceptance of the modified Terms.</p>
+    <p>We recommend that you review these Terms periodically to stay informed of any updates.</p>
+
+    <h2>2. LICENSE AND USAGE</h2>
+
+    <h3>2.1 License Grant</h3>
+    <p>Subject to your compliance with these Terms, Pluq Arc grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the Game on your personal mobile device solely for your personal, non-commercial entertainment purposes.</p>
+
+    <h3>2.2 Restrictions on Use</h3>
+    <p>You agree that you will NOT:</p>
+    <ul>
+        <li>Copy, modify, distribute, sell, or lease any part of the Game</li>
+        <li>Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Game</li>
+        <li>Remove, alter, or obscure any copyright, trademark, or other proprietary rights notices from the Game</li>
+        <li>Use the Game for any commercial purposes</li>
+        <li>Create derivative works based on the Game</li>
+        <li>Use cheats, hacks, mods, or any unauthorized third-party software to modify or interfere with the Game</li>
+        <li>Attempt to gain unauthorized access to any part of the Game or its related systems</li>
+        <li>Use the Game in any way that violates any applicable laws or regulations</li>
+    </ul>
+
+    <h3>2.3 Ownership</h3>
+    <p>The Game is licensed to you, not sold. Pluq Arc retains all rights, title, and interest in and to the Game, including all intellectual property rights. These Terms do not grant you any rights to trademarks, service marks, or logos used in connection with the Game.</p>
+
+    <h3>2.4 Game Modifications</h3>
+    <p>We reserve the right to modify, suspend, discontinue, or remove any features or aspects of the Game at any time with or without notice. We may also release updates, patches, or new versions of the Game, and you may be required to install such updates to continue using the Game.</p>
+
+    <h2>3. GOOGLE PLAY GAMES SERVICES</h2>
+
+    <h3>3.1 Cloud Save Features</h3>
+    <p>The Game uses Google Play Games Services to enable cloud saving of your game progress. By using this feature, you agree to Google Play Games Services' terms of service and privacy policy.</p>
+
+    <h3>3.2 Progress Data</h3>
+    <p>Your game progress is automatically saved through Google Play Games Services. We are not responsible for any loss of progress data due to:</p>
+    <ul>
+        <li>Disconnection from Google Play Games Services</li>
+        <li>Changes to your Google account</li>
+        <li>Technical issues with Google's services</li>
+        <li>Device changes or data loss</li>
+    </ul>
+    <p>You are responsible for maintaining access to your Google account to preserve your saved progress.</p>
+
+    <h2>4. IN-APP PURCHASES</h2>
+
+    <h3>4.1 Available Purchases</h3>
+    <p>The Game offers the following in-app purchases:</p>
+    <ul>
+        <li>Remove Ads - permanently removes advertisements from the Game</li>
+        <li>Diamond packages - virtual currency used to purchase hints within the Game</li>
+    </ul>
+
+    <h3>4.2 Payment Processing</h3>
+    <p>All in-app purchases are processed through the Google Play Store. We do not collect or have access to your payment information, credit card details, or billing information. All payment transactions are governed by Google Play's terms of service and policies.</p>
+
+    <h3>4.3 Virtual Currency (Diamonds)</h3>
+    <p>Diamonds are virtual items that can be purchased with real money or earned through gameplay. You acknowledge and agree that:</p>
+    <ul>
+        <li>Diamonds have no real-world value and cannot be exchanged for real money</li>
+        <li>Diamonds are licensed to you for personal use only and cannot be transferred, traded, or sold</li>
+        <li>We may manage, modify, or eliminate diamonds at any time without notice</li>
+        <li>You have no property interest in diamonds</li>
+        <li>Diamonds are non-refundable except as required by applicable law</li>
+    </ul>
+
+    <h3>4.4 Refund Policy</h3>
+    <p>All purchases are subject to Google Play's refund policy. We follow Google Play's policies regarding refunds for in-app purchases. To request a refund, you must contact Google Play directly through your Google Play account.</p>
+    <p>Except as required by applicable law or Google Play policies, all sales are final and non-refundable. We are not required to provide refunds for:</p>
+    <ul>
+        <li>Unused diamonds or virtual items</li>
+        <li>Purchases made by mistake</li>
+        <li>Changes of mind after purchase</li>
+        <li>Account deletion or termination</li>
+        <li>Discontinuation of the Game</li>
+    </ul>
+
+    <h3>4.5 Price Changes</h3>
+    <p>We reserve the right to change the prices of in-app purchases at any time without notice.</p>
+
+    <h2>5. ADVERTISING</h2>
+
+    <h3>5.1 In-Game Advertisements</h3>
+    <p>The Game displays advertisements provided by Google AdMob unless you purchase the "Remove Ads" option. By using the Game, you agree to view these advertisements.</p>
+
+    <h3>5.2 Ad Behavior</h3>
+    <p>Advertisements may appear:</p>
+    <ul>
+        <li>When you start or exit the Game</li>
+        <li>Between game levels or sessions</li>
+        <li>As banner ads during gameplay</li>
+        <li>As rewarded video ads (optional, for earning diamonds)</li>
+    </ul>
+
+    <h3>5.3 Third-Party Advertisers</h3>
+    <p>We do not control the content of third-party advertisements. The advertisers are responsible for ensuring their ads comply with applicable laws. We are not responsible for the content, accuracy, or opinions expressed in third-party advertisements.</p>
+
+    <h2>6. DISCLAIMERS AND WARRANTIES</h2>
+
+    <h3>6.1 "AS IS" Basis</h3>
+    <p><strong>THE GAME IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</strong></p>
+    <p>To the fullest extent permitted by law, Pluq Arc disclaims all warranties, including but not limited to:</p>
+    <ul>
+        <li>Warranties of merchantability, fitness for a particular purpose, and non-infringement</li>
+        <li>Warranties that the Game will be uninterrupted, error-free, or secure</li>
+        <li>Warranties regarding the accuracy, reliability, or quality of the Game</li>
+        <li>Warranties that defects or errors will be corrected</li>
+    </ul>
+
+    <h3>6.2 No Guarantee of Availability</h3>
+    <p>We do not guarantee that:</p>
+    <ul>
+        <li>The Game will always be available or accessible</li>
+        <li>The Game will function without bugs, crashes, or technical issues</li>
+        <li>Your saved progress will never be lost</li>
+        <li>The Game will be compatible with all devices or operating system versions</li>
+        <li>The Game will meet your specific requirements or expectations</li>
+    </ul>
+
+    <h3>6.3 Device Compatibility</h3>
+    <p>You are responsible for ensuring your device meets the technical requirements for the Game. We are not responsible if the Game does not function properly on your device.</p>
+
+    <h2>7. LIMITATION OF LIABILITY</h2>
+
+    <h3>7.1 No Liability for Damages</h3>
+    <p><strong>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PLUQ ARC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, WHETHER IN AN ACTION IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM YOUR USE OF OR INABILITY TO USE THE GAME.</strong></p>
+
+    <h3>7.2 Specific Exclusions</h3>
+    <p>We are not liable for any damages or losses resulting from:</p>
+    <ul>
+        <li>Bugs, errors, crashes, or technical malfunctions in the Game</li>
+        <li>Loss of game progress or saved data</li>
+        <li>Interruption or termination of the Game or any features</li>
+        <li>Unauthorized access to your device or data</li>
+        <li>Viruses or malicious code (though we take precautions to prevent this)</li>
+        <li>Damage to your device, hardware, or software</li>
+        <li>Loss of time or inability to use the Game</li>
+        <li>Third-party actions or content (including advertisements)</li>
+        <li>Google Play Games Services failures or data loss</li>
+        <li>Any purchases made through the Game</li>
+    </ul>
+
+    <h3>7.3 Maximum Liability</h3>
+    <p>If, notwithstanding the other provisions of these Terms, we are found to be liable to you for any damage or loss, our total liability shall not exceed the amount you paid us in the 12 months prior to the event giving rise to the liability, or $10 USD, whichever is less.</p>
+
+    <h3>7.4 Jurisdictional Variations</h3>
+    <p>Some jurisdictions do not allow the exclusion or limitation of certain warranties or liabilities. If these laws apply to you, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you may have additional rights.</p>
+
+    <h2>8. TERMINATION</h2>
+
+    <h3>8.1 Termination by You</h3>
+    <p>You may stop using the Game at any time by uninstalling it from your device. Uninstalling the Game terminates your license to use it.</p>
+
+    <h3>8.2 Termination by Us</h3>
+    <p>We reserve the right to suspend, restrict, or terminate your access to the Game at any time, with or without notice, for any reason, including if we believe you have violated these Terms.</p>
+
+    <h3>8.3 Effects of Termination</h3>
+    <p>Upon termination:</p>
+    <ul>
+        <li>Your license to use the Game immediately ends</li>
+        <li>You must uninstall the Game from your device</li>
+        <li>We are not obligated to provide refunds for any purchases</li>
+        <li>Your game progress may be deleted from our systems</li>
+        <li>Any unused diamonds or virtual items will be forfeited without compensation</li>
+    </ul>
+
+    <h3>8.4 Survival</h3>
+    <p>The following sections survive termination: Ownership (2.3), Disclaimers (6), Limitation of Liability (7), Indemnification (9), and General Provisions (11).</p>
+
+    <h2>9. INDEMNIFICATION</h2>
+    <p>You agree to indemnify, defend, and hold harmless Pluq Arc from and against any claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising from:</p>
+    <ul>
+        <li>Your use or misuse of the Game</li>
+        <li>Your violation of these Terms</li>
+        <li>Your violation of any rights of another person or entity</li>
+        <li>Your violation of any applicable laws or regulations</li>
+    </ul>
+
+    <h2>10. THIRD-PARTY SERVICES</h2>
+
+    <h3>10.1 Google Play Store</h3>
+    <p>The Game is distributed through the Google Play Store. Your use of the Google Play Store is governed by Google's terms of service. Google is not responsible for the Game, its content, maintenance, or support.</p>
+
+    <h3>10.2 Third-Party Terms</h3>
+    <p>Your use of the Game may be subject to third-party terms, including:</p>
+    <ul>
+        <li>Google Play Games Services Terms of Service</li>
+        <li>Google AdMob Terms and Policies</li>
+        <li>Your device manufacturer's terms</li>
+    </ul>
+    <p>You are responsible for complying with all applicable third-party terms.</p>
+
+    <h3>10.3 No Endorsement</h3>
+    <p>We do not endorse, and are not responsible for, any third-party services, websites, advertisements, or content that may be accessed through or in connection with the Game.</p>
+
+    <h2>11. GENERAL PROVISIONS</h2>
+
+    <h3>11.1 Entire Agreement</h3>
+    <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and Pluq Arc regarding the Game and supersede all prior agreements and understandings.</p>
+
+    <h3>11.2 Severability</h3>
+    <p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect, and the invalid provision will be modified to the minimum extent necessary to make it valid and enforceable.</p>
+
+    <h3>11.3 Waiver</h3>
+    <p>Our failure to enforce any right or provision of these Terms will not constitute a waiver of that right or provision.</p>
+
+    <h3>11.4 Assignment</h3>
+    <p>You may not assign or transfer these Terms or your rights under these Terms without our prior written consent. We may assign or transfer these Terms without restriction.</p>
+
+    <h3>11.5 Governing Law</h3>
+    <p>These Terms are governed by the laws of Tunisia, without regard to its conflict of law provisions. Any disputes arising from these Terms or the Game shall be resolved in the courts of Tunisia.</p>
+
+    <h3>11.6 Contact for Legal Notices</h3>
+    <p>Any legal notices or communications regarding these Terms should be sent to: pluqarc@gmail.com</p>
+
+    <h2>12. PRIVACY</h2>
+    <p>Your use of the Game is also governed by our Privacy Policy, which is available at: <a href="https://pluqarc.github.io/privacy-policy.html" target="_blank">https://pluqarc.github.io/privacy-policy.html</a></p>
+    <p>Please review our Privacy Policy to understand how we collect, use, and protect your information.</p>
+
+    <h2>13. CYBERSECURITY AND RISKS</h2>
+
+    <h3>13.1 Online Risks</h3>
+    <p>You acknowledge that using any online service, including mobile games, involves certain risks, including but not limited to:</p>
+    <ul>
+        <li>Unauthorized access to your device or data</li>
+        <li>Malware or viruses</li>
+        <li>Data loss or corruption</li>
+        <li>Privacy breaches</li>
+    </ul>
+    <p>While we implement reasonable security measures, we cannot guarantee that the Game is completely secure or free from vulnerabilities.</p>
+
+    <h3>13.2 Your Responsibility</h3>
+    <p>You are responsible for:</p>
+    <ul>
+        <li>Maintaining the security of your device and Google account</li>
+        <li>Using up-to-date antivirus and security software</li>
+        <li>Protecting your device from unauthorized access</li>
+        <li>Backing up your device data</li>
+    </ul>
+
+    <h3>13.3 No Liability for Security Incidents</h3>
+    <p>We are not liable for any security incidents, cyberattacks, data breaches, or unauthorized access that may occur in connection with your use of the Game, unless caused by our gross negligence or willful misconduct.</p>
+
+    <h2>14. CONTACT INFORMATION</h2>
+    <div class="contact-info">
+        <p>If you have any questions, concerns, or feedback regarding these Terms of Service, please contact us:</p>
+        <p><strong>Developer:</strong> Pluq Arc<br>
+        <strong>Email:</strong> <a href="mailto:pluqarc@gmail.com">pluqarc@gmail.com</a><br>
+        <strong>Location:</strong> Tunisia</p>
+        <p>We will respond to your inquiry as soon as possible.</p>
+    </div>
+
+    <div class="important-notice" style="margin-top: 40px;">
+        <strong>Acknowledgment:</strong> By using the Maze game, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.
+    </div>
+
+</body>
+</html>
