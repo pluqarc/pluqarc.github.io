@@ -1,5 +1,4 @@
 # Maze Rise
-**by Pluq Arc**
 
 ## Legal Documents
 
