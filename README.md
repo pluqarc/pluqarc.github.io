@@ -20,6 +20,13 @@
 - [Privacy Policy](https://pluqarc.github.io/colorTheMaze-privacy.html)
 
 ---
+# Water Sort
+
+## Legal Documents
+
+- [Privacy Policy](https://pluqarc.github.io/watersort-privacy.html)
+
+---
 
 
 **Contact:** pluqarc@gmail.com
